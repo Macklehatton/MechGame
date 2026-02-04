@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 1e8ca5c496747524da6ef586b16b54bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_Pole_L
+    100002: Arm_Pole_L_end
+    100004: Arm_Pole_R
+    100006: Arm_Pole_R_end
+    100008: Armature
+    100010: Barrel
+    100012: Barrel 1
+    100014: Barrel_end
+    100016: Femur_L
+    100018: Femur_R
+    100020: Foot_Direction_L
+    100022: Foot_Direction_L_end
+    100024: Foot_Direction_R
+    100026: Foot_Direction_R_end
+    100028: Foot_IK_L
+    100030: Foot_IK_R
+    100032: Foot_L
+    100034: Foot_L_end
+    100036: Foot_R
+    100038: Foot_R_end
+    100040: Hand_IK_L
+    100042: Hand_IK_L_end
+    100044: Hand_IK_R
+    100046: Hand_IK_R_end
+    100048: Hull
+    100050: Hull 1
+    100052: Knee_Pole_L
+    100054: Knee_Pole_L_end
+    100056: Knee_Pole_R
+    100058: Knee_Pole_R_end
+    100060: LeftArm
+    100062: LeftLeg
+    100064: LowerArm_L
+    100066: LowerArm_R
+    100068: ManipulatorBottom_L
+    100070: ManipulatorBottom_L_end
+    100072: ManipulatorBottom_R
+    100074: ManipulatorBottom_R_end
+    100076: ManipulatorTop_L
+    100078: ManipulatorTop_L_end
+    100080: ManipulatorTop_R
+    100082: ManipulatorTop_R_end
+    100084: Pelvis
+    100086: Pelvis 1
+    100088: RightArm
+    100090: RightLeg
+    100092: Root
+    100094: //RootNode
+    100096: Tarsus_L
+    100098: Tarsus_R
+    100100: Tibia_L
+    100102: Tibia_R
+    100104: Turret
+    100106: Turret 1
+    100108: Turret_end
+    100110: UpperArm_L
+    100112: UpperArm_R
+    100114: Wrist_L
+    100116: Wrist_R
+    400000: Arm_Pole_L
+    400002: Arm_Pole_L_end
+    400004: Arm_Pole_R
+    400006: Arm_Pole_R_end
+    400008: Armature
+    400010: Barrel
+    400012: Barrel 1
+    400014: Barrel_end
+    400016: Femur_L
+    400018: Femur_R
+    400020: Foot_Direction_L
+    400022: Foot_Direction_L_end
+    400024: Foot_Direction_R
+    400026: Foot_Direction_R_end
+    400028: Foot_IK_L
+    400030: Foot_IK_R
+    400032: Foot_L
+    400034: Foot_L_end
+    400036: Foot_R
+    400038: Foot_R_end
+    400040: Hand_IK_L
+    400042: Hand_IK_L_end
+    400044: Hand_IK_R
+    400046: Hand_IK_R_end
+    400048: Hull
+    400050: Hull 1
+    400052: Knee_Pole_L
+    400054: Knee_Pole_L_end
+    400056: Knee_Pole_R
+    400058: Knee_Pole_R_end
+    400060: LeftArm
+    400062: LeftLeg
+    400064: LowerArm_L
+    400066: LowerArm_R
+    400068: ManipulatorBottom_L
+    400070: ManipulatorBottom_L_end
+    400072: ManipulatorBottom_R
+    400074: ManipulatorBottom_R_end
+    400076: ManipulatorTop_L
+    400078: ManipulatorTop_L_end
+    400080: ManipulatorTop_R
+    400082: ManipulatorTop_R_end
+    400084: Pelvis
+    400086: Pelvis 1
+    400088: RightArm
+    400090: RightLeg
+    400092: Root
+    400094: //RootNode
+    400096: Tarsus_L
+    400098: Tarsus_R
+    400100: Tibia_L
+    400102: Tibia_R
+    400104: Turret
+    400106: Turret 1
+    400108: Turret_end
+    400110: UpperArm_L
+    400112: UpperArm_R
+    400114: Wrist_L
+    400116: Wrist_R
+    2100000: DarkGreen
+    2100002: Metal
+    2100004: Dark
+    4300000: RightLeg
+    4300002: LeftArm
+    4300004: Pelvis
+    4300006: LeftLeg
+    4300008: Hull
+    4300010: Turret
+    4300012: RightArm
+    4300014: Barrel
+    7400000: Jab
+    7400002: Armature|Jab
+    9500000: //RootNode
+    13700000: Barrel
+    13700002: Hull
+    13700004: LeftArm
+    13700006: LeftLeg
+    13700008: Pelvis
+    13700010: RightArm
+    13700012: RightLeg
+    13700014: Turret
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

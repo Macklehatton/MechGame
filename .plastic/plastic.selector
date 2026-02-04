@@ -1,0 +1,4 @@
+repository "MechGame@TheorySoftware@cloud"
+  path "/"
+    br "/main"
+    co "/main"

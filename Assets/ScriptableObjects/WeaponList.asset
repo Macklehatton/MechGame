@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e80581f36e96d479ec0654e195bd3c, type: 3}
+  m_Name: WeaponList
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  weapons:
+  - ID: 0
+    Name: Rapid Autocannon
+    Description: 
+    KineticDamage: 10
+    Explosive: 1
+    ExplosiveDamage: 50
+    AP: 2
+    MaxRange: 500
+    RecoilSpread: 4
+    RecoilKick: 1
+    RateOfFire: 0.125
+    RecoverySpeed: 20
+    InitialSpreadAngle: 1
+    MaxSpreadAngle: 10
+    FireMode: 1
+    FireSound: {fileID: 8300000, guid: 34a98d1de1b9a404a9201bd3e8385e5d, type: 3}
+  - ID: 1
+    Name: Null
+    Description: 
+    KineticDamage: 0
+    Explosive: 0
+    ExplosiveDamage: 0
+    AP: 0
+    MaxRange: 0
+    RecoilSpread: 0
+    RecoilKick: 0
+    RateOfFire: 0
+    RecoverySpeed: 0
+    InitialSpreadAngle: 0
+    MaxSpreadAngle: 0
+    FireMode: 0
+    FireSound: {fileID: 0}
